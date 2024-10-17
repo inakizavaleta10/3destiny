@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-3d",
+  "version": "1.0.0",
+  "description": "Proyecto para visualizar un modelo 3D con Node.js y Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
